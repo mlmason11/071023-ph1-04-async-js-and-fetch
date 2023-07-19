@@ -1,0 +1,16 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "content": "I have the heart of a lion... and a lifetime ban from the San Diego Zoo."
+    },
+    {
+      "id": 2,
+      "content": "It’s hard to explain puns to kleptomaniacs, because they take everything literally."
+    },
+    {
+      "id": 3,
+      "content": "Where do fish keep their money? In the riverbank"
+    }
+  ]
+}
